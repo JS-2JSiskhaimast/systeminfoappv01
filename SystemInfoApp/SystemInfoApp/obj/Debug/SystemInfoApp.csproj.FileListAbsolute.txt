@@ -1,0 +1,17 @@
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\bin\Debug\SystemInfoApp.exe.config
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\bin\Debug\SystemInfoApp.exe
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\bin\Debug\SystemInfoApp.pdb
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\bin\Debug\CpGetOpt.dll
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\obj\Debug\SystemInfoApp.exe
+C:\Users\tuan95hn\documents\visual studio 2015\Projects\SystemInfoApp\SystemInfoApp\obj\Debug\SystemInfoApp.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\bin\Debug\SystemInfoApp.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\obj\Debug\SystemInfoApp.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\obj\Debug\SystemInfoApp.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\bin\Debug\SystemInfoApp.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\bin\Debug\SystemInfoApp.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\bin\Debug\CpGetOpt.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\edited\SystemInfoApp\SystemInfoApp\obj\Debug\SystemInfoApp.csprojResolveAssemblyReference.cache
